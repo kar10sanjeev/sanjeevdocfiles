@@ -1,25 +1,25 @@
 Unemployment_Rate : Urban
 Region, Date, Frequency, Value
-Andhra Pradesh, 2016-01-31, M, 20.17
-Andhra Pradesh, 2016-02-29, M, 9.73
-Andhra Pradesh, 2016-03-31, M, 15.63
-Andhra Pradesh, 2016-04-30, M, 9.68
-Andhra Pradesh, 2016-05-31, M, 7.34
-Andhra Pradesh, 2016-06-30, M, 6.75
-Andhra Pradesh, 2016-07-31, M, 4.58
-Andhra Pradesh, 2016-08-31, M, 6.58
-Andhra Pradesh, 2016-09-30, M, 5.10
-Andhra Pradesh, 2016-10-31, M, 7.32
-Andhra Pradesh, 2016-11-30, M, 6.15
-Andhra Pradesh, 2016-12-31, M, 6.10
-Andhra Pradesh, 2017-01-31, M, 5.81
-Andhra Pradesh, 2017-02-28, M, 4.54
-Andhra Pradesh, 2017-03-31, M, 3.80
-Andhra Pradesh, 2017-04-30, M, 5.49
-Andhra Pradesh, 2017-05-31, M, 3.85
-Andhra Pradesh, 2017-06-30, M, 3.39
-Assam, 2016-01-31, M, 6.33
-Assam, 2016-02-29, M, 9.06
+Andhra Pradesh, 2016-01-31, M, 28.17
+Andhra Pradesh, 2016-02-29, M, 19.73
+Andhra Pradesh, 2016-03-31, M, 14.63
+Andhra Pradesh, 2016-04-30, M, 29.68
+Andhra Pradesh, 2016-05-31, M, 17.34
+Andhra Pradesh, 2016-06-30, M, 16.75
+Andhra Pradesh, 2016-07-31, M, 14.58
+Andhra Pradesh, 2016-08-31, M, 16.58
+Andhra Pradesh, 2016-09-30, M, 15.10
+Andhra Pradesh, 2016-10-31, M, 17.32
+Andhra Pradesh, 2016-11-30, M, 16.15
+Andhra Pradesh, 2016-12-31, M, 16.10
+Andhra Pradesh, 2017-01-31, M, 15.81
+Andhra Pradesh, 2017-02-28, M, 14.54
+Andhra Pradesh, 2017-03-31, M, 13.80
+Andhra Pradesh, 2017-04-30, M, 15.49
+Andhra Pradesh, 2017-05-31, M, 13.85
+Andhra Pradesh, 2017-06-30, M, 13.39
+Assam, 2016-01-31, M, 16.33
+Assam, 2016-02-29, M, 19.06
 Assam, 2016-03-31, M, 5.17
 Assam, 2016-04-30, M, 4.27
 Assam, 2016-05-31, M, 4.75
@@ -445,8 +445,8 @@ West Bengal, 2017-01-31, M, 8.48
 West Bengal, 2017-02-28, M, 6.28
 West Bengal, 2017-03-31, M, 5.92
 West Bengal, 2017-04-30, M, 5.91
-West Bengal, 2017-05-31, M, 8.91
-West Bengal, 2017-06-30, M, 6.16
+West Bengal, 2017-05-31, M, 18.91
+West Bengal, 2017-06-30, M, 16.16
 India, 2016-01-31, M, 10.52
 India, 2016-02-29, M, 10.56
 India, 2016-03-31, M, 11.65
@@ -455,13 +455,13 @@ India, 2016-05-31, M, 12.07
 India, 2016-06-30, M, 10.35
 India, 2016-07-31, M, 11.16
 India, 2016-08-31, M, 11.20
-India, 2016-09-30, M, 9.73
-India, 2016-10-31, M, 7.62
-India, 2016-11-30, M, 7.75
-India, 2016-12-31, M, 7.74
-India, 2017-01-31, M, 7.73
-India, 2017-02-28, M, 6.47
-India, 2017-03-31, M, 5.86
-India, 2017-04-30, M, 4.25
-India, 2017-05-31, M, 4.77
-India, 2017-06-30, M, 4.47
+India, 2016-09-30, M, 19.73
+India, 2016-10-31, M, 17.62
+India, 2016-11-30, M, 17.75
+India, 2016-12-31, M, 17.74
+India, 2017-01-31, M, 17.73
+India, 2017-02-28, M, 16.47
+India, 2017-03-31, M, 15.86
+India, 2017-04-30, M, 14.25
+India, 2017-05-31, M, 14.77
+India, 2017-06-30, M, 14.47
